@@ -1,5 +1,5 @@
 # BUAA-CO-2020
-This is My BUAA Computer Orgnization code project files.
+2020年秋季北航计组代码。This is My BUAA Computer Orgnization code project files.
 
 ## introduction
 由于2020年秋季的北航计组实验由于时间冲突的原因只开课开到P7，P8没有开放，笔者很幸运地通关了，在这里还是放一下本菜鸡的代码，纪念一下那些熬夜奋战的时光
