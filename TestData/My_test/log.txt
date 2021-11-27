@@ -1,0 +1,61 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe --nodebug --prj mips.prj -o mips.exe mipsAutoTest 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "G:\P5_test\ALU.v" into library work
+Analyzing Verilog file "G:\P5_test\CMP.v" into library work
+Analyzing Verilog file "G:\P5_test\constants.v" into library work
+Analyzing Verilog file "G:\P5_test\controller.v" into library work
+Analyzing Verilog file "G:\P5_test\D2E.v" into library work
+Analyzing Verilog file "G:\P5_test\DM.v" into library work
+Analyzing Verilog file "G:\P5_test\E2M.v" into library work
+Analyzing Verilog file "G:\P5_test\EXT.v" into library work
+Analyzing Verilog file "G:\P5_test\F2D.v" into library work
+Analyzing Verilog file "G:\P5_test\for_MUX.v" into library work
+Analyzing Verilog file "G:\P5_test\GRF.v" into library work
+Analyzing Verilog file "G:\P5_test\hazard_Unit.v" into library work
+Analyzing Verilog file "G:\P5_test\IM.v" into library work
+Analyzing Verilog file "G:\P5_test\instr_class.v" into library work
+Analyzing Verilog file "G:\P5_test\M2W.v" into library work
+Analyzing Verilog file "G:\P5_test\mips.v" into library work
+Analyzing Verilog file "G:\P5_test\mipsAutoTest.v" into library work
+Analyzing Verilog file "G:\P5_test\MIPS_CPU_P5_tb.v" into library work
+Analyzing Verilog file "G:\P5_test\mips_tb.v" into library work
+Analyzing Verilog file "G:\P5_test\MUX.v" into library work
+Analyzing Verilog file "G:\P5_test\PC.v" into library work
+Analyzing Verilog file "G:\P5_test\pcCalc.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC
+Compiling module IM
+Compiling module F2D
+Compiling module controller
+Compiling module GRF
+Compiling module EXT
+Compiling module CMP
+Compiling module pcCalc
+Compiling module D2E
+Compiling module aluDSel
+Compiling module ALU
+Compiling module aluRetSel
+Compiling module E2M
+Compiling module DM
+Compiling module M2W
+Compiling module writeDSel
+Compiling module writeASel
+Compiling module instr_class
+Compiling module hazard_Unit
+Compiling module forRsD
+Compiling module forRtD
+Compiling module forRsE
+Compiling module forRtE
+Compiling module forRtM
+Compiling module mips
+Compiling module mipsAutoTest
+Time Resolution for simulation is 1ps.
+Waiting for 11 sub-compilation(s) to finish...
+Compiled 26 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 33460 KB
+Fuse CPU Usage: 780 ms

@@ -1,0 +1,5 @@
+@00003000: $ 1 <= 0000007b
+Error in G:\P5_test\test_asm\other\testpoint4.asm line 2: Runtime exception at 0x00003004: fetch address not aligned on word boundary 0x0000007b
+
+Processing terminated due to errors.
+

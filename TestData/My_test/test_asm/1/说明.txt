@@ -1,0 +1,1 @@
+movz 和 bgezal  需手动课下加上
